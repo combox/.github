@@ -248,7 +248,7 @@ Available in **English** · **Francais** · **Espanol**
 
 <sub>
 
-**[Website](https://com-box.app)** · **[Documentation](https://com-box.app/docs)** · **[Support](mailto:support@com-box.app)**
+**[Website](https://com-box.app)** · **[Support](mailto:support@com-box.app)**
 
 <br />
 
